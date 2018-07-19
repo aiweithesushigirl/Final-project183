@@ -1,2 +1,0 @@
-Unknown option "-y".
-See /Users/wuaiwei/Documents/Processing/lorenz/ffmpeg-3.4.2/configure --help for available options.
